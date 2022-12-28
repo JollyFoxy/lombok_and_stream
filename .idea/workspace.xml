@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b267208-3529-4a93-a8de-89aa01e1a1f2" name="Changes" comment="Учимся стримить 2">
+    <list default="true" id="7b267208-3529-4a93-a8de-89aa01e1a1f2" name="Changes" comment="Учимся стримить 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Users/UserGen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Users/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Users/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Users/Name_gen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Users/Name_gen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Users/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Users/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -156,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672147232104</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Учимся стримить 3">
+      <created>1672151880146</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672151880146</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +184,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Учимся стримить" />
     <MESSAGE value="Учимся стримить 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Учимся стримить 2" />
+    <MESSAGE value="Учимся стримить 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Учимся стримить 3" />
   </component>
 </project>

@@ -1,12 +1,16 @@
 package Users;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
+import lombok.*;
 
-@AllArgsConstructor
-@Data
+@Value
+@With
 public class User {
-    private long id;
-    private String name;
-    private int age;
+    long id;
+    String name;
+    int age;
+    public User(){
+        id=0;
+        name="Unnamed";
+        age=0;
+    }
 }
